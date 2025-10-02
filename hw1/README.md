@@ -1,6 +1,4 @@
-# 作業名稱
-
-Rolling Ball Maze with Two Balls
+# Rolling Ball Maze with Two Balls 作業
 
 ## 說明
 
