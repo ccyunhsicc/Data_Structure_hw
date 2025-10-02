@@ -1,4 +1,4 @@
-# Entanglement Routing & Numerology Selection（量子網路資料傳輸排程）作業
+# Entanglement Routing & Numerology Selection 作業
 
 ## 作業簡介
 
